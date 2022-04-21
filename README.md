@@ -40,7 +40,7 @@ THEN the saved events persist
 
 The following GIF Image demonstrates the web application's default appearance and functionality
 
-![Web Application displays Code Quiz -randomly generated question with Timer and stores High Scores with Initials".]()
+![Web Application displays Code Quiz -randomly generated question with Timer and stores High Scores with Initials".](./assets/Work%20Day%20Scheduler.gif)
 
 ## TECHNOLOGY
 
